@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/chart-area-demo.js": "/js/chart-area-demo.js",
+    "/js/chart-bar-demo.js": "/js/chart-bar-demo.js",
+    "/js/livewire-turbolinks.js": "/js/livewire-turbolinks.js",
+    "/js/mycustom.js": "/js/mycustom.js",
+    "/js/turbolinkstart.js": "/js/turbolinkstart.js"
+}
